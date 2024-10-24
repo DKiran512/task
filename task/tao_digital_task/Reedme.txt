@@ -1,0 +1,21 @@
+http://localhost:9090/api/tasks
+Request Body : 
+{
+"title": "New Task",
+"description": "Task description",
+"dueDate": "2024-11-01"
+}
+
+http://localhost:9090/api/tasks/1
+
+Request Body : 
+
+{
+  "title": "Updated Task",
+  "description": "Updated Description",
+  "dueDate": "2024-11-15"
+}
+
+DB : I have used postgresql for data storage 
+And i have used JPA for fetching the records and updating the records
+

@@ -1,0 +1,5 @@
+com\tao\digital\task\controller\TaskController.class
+com\tao\digital\task\service\TaskService.class
+com\tao\digital\task\entity\Task.class
+com\tao\digital\task\repository\TaskRepository.class
+com\tao\digital\task\TaskApiApplication.class

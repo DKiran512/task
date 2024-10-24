@@ -1,0 +1,5 @@
+package com.tao.digital.task.entity;
+
+public class Task {
+
+}
